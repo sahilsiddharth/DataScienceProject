@@ -1,1 +1,8 @@
 [2025-02-05 04:19:20,429: INFO: main: Welocme to the Project:]
+[2025-02-07 04:44:59,316: INFO: common: yaml file config\config.yaml loaded successfully:]
+[2025-02-07 04:44:59,317: INFO: common: yaml file params.yaml loaded successfully:]
+[2025-02-07 04:45:37,332: INFO: common: yaml file config\config.yaml loaded successfully:]
+[2025-02-07 04:45:37,335: INFO: common: yaml file params.yaml loaded successfully:]
+[2025-02-07 04:45:37,336: INFO: common: yaml file schema.yaml loaded successfully:]
+[2025-02-07 04:45:37,337: INFO: common:  directory artifacts created:]
+[2025-02-07 04:45:37,339: INFO: common:  directory artifacts/data_ingestion created:]
