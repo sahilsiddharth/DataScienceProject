@@ -166,3 +166,91 @@ x==========x:]
 [2025-02-10 12:32:23,922: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
 
 x==========x:]
+[2025-02-10 16:00:16,862: INFO: common: yaml file config\config.yaml loaded successfully:]
+[2025-02-10 16:00:16,875: INFO: common: yaml file params.yaml loaded successfully:]
+[2025-02-10 16:00:16,894: INFO: common: yaml file schema.yaml loaded successfully:]
+[2025-02-10 16:00:16,897: INFO: common:  directory artifacts created:]
+[2025-02-10 16:00:16,900: INFO: common:  directory artifacts/data_transformation created:]
+[2025-02-10 16:00:16,960: INFO: 2494119004: data splitted into train and test:]
+[2025-02-10 16:00:16,962: INFO: 2494119004: (1199, 12):]
+[2025-02-10 16:00:16,963: INFO: 2494119004: (400, 12):]
+[2025-02-10 16:13:15,390: INFO: main: Welocme to the Project:]
+[2025-02-10 16:13:15,391: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<:]
+[2025-02-10 16:13:15,405: INFO: common: yaml file config\config.yaml loaded successfully:]
+[2025-02-10 16:13:15,422: INFO: common: yaml file params.yaml loaded successfully:]
+[2025-02-10 16:13:15,434: INFO: common: yaml file schema.yaml loaded successfully:]
+[2025-02-10 16:13:15,435: INFO: common:  directory artifacts created:]
+[2025-02-10 16:13:15,437: INFO: common:  directory artifacts/data_ingestion created:]
+[2025-02-10 16:13:15,438: INFO: data_ingestion: File already exists:]
+[2025-02-10 16:13:15,468: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x:]
+[2025-02-10 16:13:15,470: INFO: main: >>>>>> stage Data Validation stage started <<<<<<:]
+[2025-02-10 16:13:15,473: INFO: common: yaml file config\config.yaml loaded successfully:]
+[2025-02-10 16:13:15,475: INFO: common: yaml file params.yaml loaded successfully:]
+[2025-02-10 16:13:15,480: INFO: common: yaml file schema.yaml loaded successfully:]
+[2025-02-10 16:13:15,482: INFO: common:  directory artifacts created:]
+[2025-02-10 16:13:15,482: INFO: common:  directory artifacts/data_validation created:]
+[2025-02-10 16:13:15,513: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x:]
+[2025-02-10 16:13:15,514: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<:]
+[2025-02-10 16:13:15,515: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x:]
+[2025-02-10 16:13:58,793: INFO: main: Welocme to the Project:]
+[2025-02-10 16:13:58,793: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<:]
+[2025-02-10 16:13:58,797: INFO: common: yaml file config\config.yaml loaded successfully:]
+[2025-02-10 16:13:58,798: INFO: common: yaml file params.yaml loaded successfully:]
+[2025-02-10 16:13:58,800: INFO: common: yaml file schema.yaml loaded successfully:]
+[2025-02-10 16:13:58,802: INFO: common:  directory artifacts created:]
+[2025-02-10 16:13:58,804: INFO: common:  directory artifacts/data_ingestion created:]
+[2025-02-10 16:13:58,804: INFO: data_ingestion: File already exists:]
+[2025-02-10 16:13:58,813: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x:]
+[2025-02-10 16:13:58,814: INFO: main: >>>>>> stage Data Validation stage started <<<<<<:]
+[2025-02-10 16:13:58,822: INFO: common: yaml file config\config.yaml loaded successfully:]
+[2025-02-10 16:13:58,824: INFO: common: yaml file params.yaml loaded successfully:]
+[2025-02-10 16:13:58,828: INFO: common: yaml file schema.yaml loaded successfully:]
+[2025-02-10 16:13:58,830: INFO: common:  directory artifacts created:]
+[2025-02-10 16:13:58,832: INFO: common:  directory artifacts/data_validation created:]
+[2025-02-10 16:13:58,874: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x:]
+[2025-02-10 16:13:58,875: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<:]
+[2025-02-10 16:13:58,895: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x:]
+[2025-02-10 16:14:30,232: INFO: main: Welocme to the Project:]
+[2025-02-10 16:14:30,232: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<:]
+[2025-02-10 16:14:30,236: INFO: common: yaml file config\config.yaml loaded successfully:]
+[2025-02-10 16:14:30,237: INFO: common: yaml file params.yaml loaded successfully:]
+[2025-02-10 16:14:30,240: INFO: common: yaml file schema.yaml loaded successfully:]
+[2025-02-10 16:14:30,241: INFO: common:  directory artifacts created:]
+[2025-02-10 16:14:30,243: INFO: common:  directory artifacts/data_ingestion created:]
+[2025-02-10 16:14:30,244: INFO: data_ingestion: File already exists:]
+[2025-02-10 16:14:30,253: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x:]
+[2025-02-10 16:14:30,254: INFO: main: >>>>>> stage Data Validation stage started <<<<<<:]
+[2025-02-10 16:14:30,258: INFO: common: yaml file config\config.yaml loaded successfully:]
+[2025-02-10 16:14:30,260: INFO: common: yaml file params.yaml loaded successfully:]
+[2025-02-10 16:14:30,263: INFO: common: yaml file schema.yaml loaded successfully:]
+[2025-02-10 16:14:30,265: INFO: common:  directory artifacts created:]
+[2025-02-10 16:14:30,267: INFO: common:  directory artifacts/data_validation created:]
+[2025-02-10 16:14:30,300: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x:]
+[2025-02-10 16:14:30,301: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<:]
+[2025-02-10 16:14:30,307: INFO: common: yaml file config\config.yaml loaded successfully:]
+[2025-02-10 16:14:30,308: INFO: common: yaml file params.yaml loaded successfully:]
+[2025-02-10 16:14:30,312: INFO: common: yaml file schema.yaml loaded successfully:]
+[2025-02-10 16:14:30,313: INFO: common:  directory artifacts created:]
+[2025-02-10 16:14:30,315: INFO: common:  directory artifacts/data_transformation created:]
+[2025-02-10 16:14:30,355: INFO: data_transformation: data splitted into train and test:]
+[2025-02-10 16:14:30,355: INFO: data_transformation: (1199, 12):]
+[2025-02-10 16:14:30,356: INFO: data_transformation: (400, 12):]
+[2025-02-10 16:14:30,357: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x:]
