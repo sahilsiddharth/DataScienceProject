@@ -136,3 +136,33 @@ Source-Age: 0
 [2025-02-07 16:47:23,422: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x:]
+[2025-02-10 12:18:44,050: INFO: common: yaml file config\config.yaml loaded successfully:]
+[2025-02-10 12:18:44,064: INFO: common: yaml file params.yaml loaded successfully:]
+[2025-02-10 12:18:44,077: INFO: common: yaml file schema.yaml loaded successfully:]
+[2025-02-10 12:18:44,080: INFO: common:  directory artifacts created:]
+[2025-02-10 12:18:44,082: INFO: common:  directory artifacts/data_validation created:]
+[2025-02-10 12:19:43,509: INFO: common: yaml file config\config.yaml loaded successfully:]
+[2025-02-10 12:19:43,510: INFO: common: yaml file params.yaml loaded successfully:]
+[2025-02-10 12:19:43,514: INFO: common: yaml file schema.yaml loaded successfully:]
+[2025-02-10 12:19:43,516: INFO: common:  directory artifacts created:]
+[2025-02-10 12:19:43,518: INFO: common:  directory artifacts/data_validation created:]
+[2025-02-10 12:32:23,865: INFO: main: Welocme to the Project:]
+[2025-02-10 12:32:23,865: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<:]
+[2025-02-10 12:32:23,867: INFO: common: yaml file config\config.yaml loaded successfully:]
+[2025-02-10 12:32:23,869: INFO: common: yaml file params.yaml loaded successfully:]
+[2025-02-10 12:32:23,871: INFO: common: yaml file schema.yaml loaded successfully:]
+[2025-02-10 12:32:23,872: INFO: common:  directory artifacts created:]
+[2025-02-10 12:32:23,872: INFO: common:  directory artifacts/data_ingestion created:]
+[2025-02-10 12:32:23,873: INFO: data_ingestion: File already exists:]
+[2025-02-10 12:32:23,892: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x:]
+[2025-02-10 12:32:23,892: INFO: main: >>>>>> stage Data Validation stage started <<<<<<:]
+[2025-02-10 12:32:23,894: INFO: common: yaml file config\config.yaml loaded successfully:]
+[2025-02-10 12:32:23,895: INFO: common: yaml file params.yaml loaded successfully:]
+[2025-02-10 12:32:23,897: INFO: common: yaml file schema.yaml loaded successfully:]
+[2025-02-10 12:32:23,897: INFO: common:  directory artifacts created:]
+[2025-02-10 12:32:23,899: INFO: common:  directory artifacts/data_validation created:]
+[2025-02-10 12:32:23,922: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x:]
