@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ba4c557207a64b75839671bcc951a691/artifacts
+end_time: 1739255708302
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba4c557207a64b75839671bcc951a691
+run_name: agreeable-bat-717
+run_uuid: ba4c557207a64b75839671bcc951a691
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739255661137
+status: 3
+tags: []
+user_id: sahilsiddharth
